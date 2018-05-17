@@ -1,4 +1,4 @@
-﻿Configuration TestVSS{
+﻿Configuration Example_TestVSS{
 
     Import-DscResource -ModuleName cVSS
 

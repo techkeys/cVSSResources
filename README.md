@@ -1,4 +1,4 @@
-cVSSResources :: A DSC Resource for managing Windows Volume Shadow Copies
+cEventLog :: A DSC Resource for managing Windows Volume Shadow Copies
 This repository contains the cVSSResources PowerShell module, containing Microsoft Windows PowerShell Desired State Configuration (DSC) resources to manage Volume Shadow Copies.
 
 Background

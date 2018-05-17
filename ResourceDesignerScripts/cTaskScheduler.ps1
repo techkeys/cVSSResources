@@ -1,5 +1,4 @@
 ﻿#Name the Resource
-#$ResourceName = '<ResourceName'
 $ResourceName = 'cVSSTaskScheduler'
 
 #Create Module Path

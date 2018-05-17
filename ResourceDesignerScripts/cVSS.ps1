@@ -1,5 +1,4 @@
 ﻿#Name the Resource
-#$ResourceName = '<ResourceName'
 $ResourceName = 'cVSS'
 
 #Create Module Path
